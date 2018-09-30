@@ -16,7 +16,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="86dp"
+        android:layout_height="75dp"
         android:orientation="horizontal">
 
         <Button
@@ -52,7 +52,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="67dp"
+        android:layout_height="75dp"
         android:orientation="horizontal">
 
         <Button
@@ -88,7 +88,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="60dp"
+        android:layout_height="75dp"
         android:orientation="horizontal">
 
         <Button
@@ -125,7 +125,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="73dp"
+        android:layout_height="75dp"
         android:orientation="horizontal">
 
         <Button
