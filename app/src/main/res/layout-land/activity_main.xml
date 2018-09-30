@@ -39,6 +39,7 @@
             android:id="@+id/button17"
             android:layout_width="wrap_content"
             android:layout_height="60dp"
+            android:layout_marginRight="10dp"
             android:layout_weight="1"
             android:text="9" />
 
@@ -75,6 +76,7 @@
             android:id="@+id/button17"
             android:layout_width="wrap_content"
             android:layout_height="60dp"
+            android:layout_marginRight="10dp"
             android:layout_weight="1"
             android:text="6" />
 
@@ -87,8 +89,9 @@
     </LinearLayout>
 
     <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="75dp"
+        android:layout_width="605dp"
+        android:layout_height="80dp"
+        android:layout_marginRight="10dp"
         android:orientation="horizontal">
 
         <Button
@@ -111,6 +114,7 @@
             android:id="@+id/button17"
             android:layout_width="wrap_content"
             android:layout_height="60dp"
+            android:layout_marginRight="15dp"
             android:layout_weight="1"
             android:text="3" />
 
@@ -118,6 +122,8 @@
             android:id="@+id/button15"
             android:layout_width="wrap_content"
             android:layout_height="60dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginRight="10dp"
             android:layout_weight="1"
             android:text="-" />
     </LinearLayout>
@@ -148,6 +154,7 @@
             android:id="@+id/button22"
             android:layout_width="wrap_content"
             android:layout_height="60dp"
+            android:layout_marginRight="10dp"
             android:layout_weight="1"
             android:text="=" />
 
